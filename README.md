@@ -68,6 +68,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [0416-partition-equal-subset-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0416-partition-equal-subset-sum) |
 ## Math
 |  |
 | ------- |
@@ -76,4 +77,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
