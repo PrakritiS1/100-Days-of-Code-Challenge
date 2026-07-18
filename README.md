@@ -64,4 +64,16 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0743-network-delay-time) |
+## Array
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
