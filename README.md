@@ -69,10 +69,12 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [0416-partition-equal-subset-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0416-partition-equal-subset-sum) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -101,4 +103,12 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [0316-remove-duplicate-letters](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0316-remove-duplicate-letters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
