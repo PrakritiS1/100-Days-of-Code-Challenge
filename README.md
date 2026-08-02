@@ -70,11 +70,13 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [0416-partition-equal-subset-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [0877-stone-game](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [0877-stone-game](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0877-stone-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -83,6 +85,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0416-partition-equal-subset-sum) |
+| [0877-stone-game](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -111,4 +114,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
