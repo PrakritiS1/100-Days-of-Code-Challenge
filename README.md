@@ -73,6 +73,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0877-stone-game](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1406-stone-game-iii) |
 | [0001-two-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +130,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | ------- |
 | [0001-two-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0146-lru-cache) |
+| [3731-find-missing-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -141,4 +143,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0146-lru-cache) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
