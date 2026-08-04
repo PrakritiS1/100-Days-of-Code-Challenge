@@ -128,4 +128,17 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
