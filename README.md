@@ -74,6 +74,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1406-stone-game-iii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1406-stone-game-iii) |
 | [0001-two-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3731-find-missing-elements) |
+| [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +84,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1406-stone-game-iii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1406-stone-game-iii) |
 | [0009-palindrome-number](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0009-palindrome-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
+| [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -93,6 +95,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0416-partition-equal-subset-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0877-stone-game](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1406-stone-game-iii) |
+| [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
 ## String
 |  |
 | ------- |
@@ -127,6 +130,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | ------- |
 | [0877-stone-game](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1406-stone-game-iii) |
+| [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,4 +153,16 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3731-find-missing-elements) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
