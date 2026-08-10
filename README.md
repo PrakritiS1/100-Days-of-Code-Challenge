@@ -85,6 +85,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0009-palindrome-number](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0009-palindrome-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1510-stone-game-iv) |
 ## Number Theory
 |  |
 | ------- |
@@ -96,6 +97,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0877-stone-game](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1510-stone-game-iv) |
 ## String
 |  |
 | ------- |
@@ -131,6 +133,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0877-stone-game](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1510-stone-game-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +160,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -165,4 +169,13 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
