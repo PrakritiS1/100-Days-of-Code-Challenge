@@ -75,6 +75,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0001-two-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3731-find-missing-elements) |
 | [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +141,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0001-two-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0146-lru-cache) |
 | [3731-find-missing-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3731-find-missing-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -156,6 +158,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3731-find-missing-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Minimax
 |  |
 | ------- |
