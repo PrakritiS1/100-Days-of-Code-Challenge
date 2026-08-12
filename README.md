@@ -76,6 +76,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3731-find-missing-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3731-find-missing-elements) |
 | [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +143,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0146-lru-cache](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0146-lru-cache) |
 | [3731-find-missing-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3731-find-missing-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -181,4 +183,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
