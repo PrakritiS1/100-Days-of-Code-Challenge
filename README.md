@@ -107,6 +107,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [0316-remove-duplicate-letters](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0316-remove-duplicate-letters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -146,6 +147,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3731-find-missing-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3731-find-missing-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
 | ------- |
@@ -189,6 +191,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
 |  |
 | ------- |
