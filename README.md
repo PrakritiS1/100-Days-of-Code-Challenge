@@ -79,6 +79,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [1563-stone-game-v](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1563-stone-game-v) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1563-stone-game-v) |
 ## Number Theory
 |  |
 | ------- |
@@ -102,6 +104,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1406-stone-game-iii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1563-stone-game-v) |
 ## String
 |  |
 | ------- |
@@ -141,6 +144,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1406-stone-game-iii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1563-stone-game-v) |
 ## Hash Table
 |  |
 | ------- |
