@@ -80,6 +80,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [1563-stone-game-v](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1563-stone-game-v) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +155,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
 | ------- |
