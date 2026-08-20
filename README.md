@@ -82,6 +82,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1563-stone-game-v](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1563-stone-game-v) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [1386-cinema-seat-allocation](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1386-cinema-seat-allocation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
 | ------- |
@@ -212,4 +213,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
