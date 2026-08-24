@@ -1,12 +1,13 @@
 class Solution {
     public int singleNumber(int[] nums) {
 
-        int single = 0;
+        int xorr = 0;
 
-        for (int i = 0; i < nums.length; i++) {
-            single = single ^ nums[i];
+        // XOR all elements — duplicates cancel each other out
+        for (int num : nums) {
+            xorr ^= num;
         }
 
-        return single;
-    }
+        return xorr;}
+
 }
