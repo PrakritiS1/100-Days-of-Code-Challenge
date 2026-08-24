@@ -85,6 +85,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
