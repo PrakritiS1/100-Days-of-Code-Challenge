@@ -86,6 +86,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0485-max-consecutive-ones) |
+| [0136-single-number](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0136-single-number) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +141,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [1386-cinema-seat-allocation](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1386-cinema-seat-allocation) |
+| [0136-single-number](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0136-single-number) |
 ## Enumeration
 |  |
 | ------- |
