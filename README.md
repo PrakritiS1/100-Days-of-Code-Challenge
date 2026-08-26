@@ -120,6 +120,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0316-remove-duplicate-letters](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0316-remove-duplicate-letters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
 | ------- |
@@ -212,6 +213,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Segment Tree
 |  |
 | ------- |
