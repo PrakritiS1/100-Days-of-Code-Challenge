@@ -87,6 +87,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0485-max-consecutive-ones) |
 | [0136-single-number](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0136-single-number) |
+| [0037-sudoku-solver](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0037-sudoku-solver) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +167,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [1386-cinema-seat-allocation](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1386-cinema-seat-allocation) |
+| [0037-sudoku-solver](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0037-sudoku-solver) |
 ## Linked List
 |  |
 | ------- |
@@ -226,4 +228,20 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
