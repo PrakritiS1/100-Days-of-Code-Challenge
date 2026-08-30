@@ -88,6 +88,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0485-max-consecutive-ones](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0485-max-consecutive-ones) |
 | [0136-single-number](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0136-single-number) |
 | [0037-sudoku-solver](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0037-sudoku-solver) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +174,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1386-cinema-seat-allocation](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1386-cinema-seat-allocation) |
 | [0037-sudoku-solver](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0037-sudoku-solver) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
