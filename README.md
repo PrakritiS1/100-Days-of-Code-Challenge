@@ -89,6 +89,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0136-single-number](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0136-single-number) |
 | [0037-sudoku-solver](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0037-sudoku-solver) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +102,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1563-stone-game-v) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Number Theory
 |  |
 | ------- |
