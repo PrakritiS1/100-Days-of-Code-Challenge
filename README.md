@@ -104,6 +104,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1510-stone-game-iv](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1563-stone-game-v) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3876-construct-uniform-parity-array-ii) |
+| [1925-count-square-sum-triples](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1925-count-square-sum-triples) |
 ## Number Theory
 |  |
 | ------- |
@@ -156,6 +157,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [1925-count-square-sum-triples](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1925-count-square-sum-triples) |
 ## Game Theory
 |  |
 | ------- |
