@@ -92,6 +92,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3876-construct-uniform-parity-array-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3876-construct-uniform-parity-array-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [0704-binary-search](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0704-binary-search) |
+| [3904-smallest-stable-index-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -209,6 +210,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
