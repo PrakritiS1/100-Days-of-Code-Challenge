@@ -94,6 +94,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0704-binary-search](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0704-binary-search) |
 | [3904-smallest-stable-index-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3904-smallest-stable-index-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -278,4 +279,5 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | ------- |
 | [0704-binary-search](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0704-binary-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
