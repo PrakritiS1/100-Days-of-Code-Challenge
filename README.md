@@ -124,6 +124,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1510-stone-game-iv](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1563-stone-game-v) |
 | [0940-distinct-subsequences-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0940-distinct-subsequences-ii) |
+| [0115-distinct-subsequences](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0115-distinct-subsequences) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [0940-distinct-subsequences-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0940-distinct-subsequences-ii) |
+| [0115-distinct-subsequences](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0115-distinct-subsequences) |
 ## Stack
 |  |
 | ------- |
