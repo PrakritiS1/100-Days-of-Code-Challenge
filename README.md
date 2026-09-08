@@ -111,6 +111,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3876-construct-uniform-parity-array-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3876-construct-uniform-parity-array-ii) |
 | [1925-count-square-sum-triples](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1925-count-square-sum-triples) |
 | [0319-bulb-switcher](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0319-bulb-switcher) |
+| [3870-count-commas-in-range](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3870-count-commas-in-range) |
 ## Number Theory
 |  |
 | ------- |
