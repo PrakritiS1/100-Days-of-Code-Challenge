@@ -96,6 +96,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0875-koko-eating-bananas) |
+| [3875-construct-uniform-parity-array-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0319-bulb-switcher](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0319-bulb-switcher) |
 | [3870-count-commas-in-range](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3871-count-commas-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
