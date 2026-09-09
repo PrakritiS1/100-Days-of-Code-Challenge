@@ -97,6 +97,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0875-koko-eating-bananas) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -222,6 +223,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | ------- |
 | [1140-stone-game-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1140-stone-game-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3904-smallest-stable-index-ii) |
+| [3903-smallest-stable-index-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3903-smallest-stable-index-i) |
 ## Zero-Sum Game
 |  |
 | ------- |
