@@ -112,6 +112,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1925-count-square-sum-triples](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1925-count-square-sum-triples) |
 | [0319-bulb-switcher](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0319-bulb-switcher) |
 | [3870-count-commas-in-range](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3871-count-commas-in-range-ii) |
 ## Number Theory
 |  |
 | ------- |
