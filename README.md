@@ -48,6 +48,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0743-network-delay-time) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -292,4 +293,12 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0875-koko-eating-bananas) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
