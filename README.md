@@ -99,6 +99,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0875-koko-eating-bananas](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0875-koko-eating-bananas) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3903-smallest-stable-index-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -174,6 +175,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [1925-count-square-sum-triples](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1925-count-square-sum-triples) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
@@ -196,6 +198,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0037-sudoku-solver](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0037-sudoku-solver) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -301,4 +304,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
