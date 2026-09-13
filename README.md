@@ -101,6 +101,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3903-smallest-stable-index-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3903-smallest-stable-index-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [0835-image-overlap](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0835-image-overlap) |
 ## Math
 |  |
 | ------- |
@@ -276,6 +277,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0037-sudoku-solver) |
+| [0835-image-overlap](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0835-image-overlap) |
 ## Algorithm X
 |  |
 | ------- |
