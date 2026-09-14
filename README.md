@@ -120,6 +120,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3870-count-commas-in-range](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
+| [0836-rectangle-overlap](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0836-rectangle-overlap) |
 ## Number Theory
 |  |
 | ------- |
@@ -314,4 +315,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
