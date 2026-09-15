@@ -137,6 +137,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0940-distinct-subsequences-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0940-distinct-subsequences-ii) |
 | [0115-distinct-subsequences](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0115-distinct-subsequences) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -148,6 +149,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [0940-distinct-subsequences-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0940-distinct-subsequences-ii) |
 | [0115-distinct-subsequences](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0115-distinct-subsequences) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -160,6 +162,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0316-remove-duplicate-letters](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0316-remove-duplicate-letters) |
 | [1386-cinema-seat-allocation](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1386-cinema-seat-allocation) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -270,6 +273,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
 |  |
 | ------- |
