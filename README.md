@@ -154,6 +154,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0940-distinct-subsequences-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0940-distinct-subsequences-ii) |
 | [0115-distinct-subsequences](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0115-distinct-subsequences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -167,6 +168,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1386-cinema-seat-allocation](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1386-cinema-seat-allocation) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -211,6 +213,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -230,6 +233,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3731-find-missing-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3731-find-missing-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Minimax
 |  |
 | ------- |
