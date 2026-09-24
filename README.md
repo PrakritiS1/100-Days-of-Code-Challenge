@@ -103,6 +103,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [0835-image-overlap](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +124,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3875-construct-uniform-parity-array-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [0836-rectangle-overlap](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Number Theory
 |  |
 | ------- |
