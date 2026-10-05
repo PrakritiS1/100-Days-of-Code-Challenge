@@ -158,12 +158,14 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [0856-score-of-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [0316-remove-duplicate-letters](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0316-remove-duplicate-letters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [0856-score-of-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0856-score-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -347,4 +349,5 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [0856-score-of-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
