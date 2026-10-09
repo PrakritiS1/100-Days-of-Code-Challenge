@@ -160,6 +160,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0856-score-of-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
 | ------- |
@@ -168,6 +169,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0856-score-of-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +179,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -353,4 +356,5 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0856-score-of-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
