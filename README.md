@@ -125,6 +125,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0836-rectangle-overlap](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [0089-gray-code](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0089-gray-code) |
 ## Number Theory
 |  |
 | ------- |
@@ -192,6 +193,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [1386-cinema-seat-allocation](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1386-cinema-seat-allocation) |
 | [0136-single-number](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0136-single-number) |
+| [0089-gray-code](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0089-gray-code) |
 ## Enumeration
 |  |
 | ------- |
@@ -300,6 +302,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0037-sudoku-solver) |
+| [0089-gray-code](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
