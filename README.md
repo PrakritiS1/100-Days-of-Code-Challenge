@@ -104,6 +104,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0835-image-overlap](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Math
 |  |
 | ------- |
@@ -202,6 +203,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [1925-count-square-sum-triples](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1925-count-square-sum-triples) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Game Theory
 |  |
 | ------- |
