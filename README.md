@@ -128,6 +128,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [0089-gray-code](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0089-gray-code) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -184,6 +185,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
