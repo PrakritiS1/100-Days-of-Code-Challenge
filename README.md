@@ -106,6 +106,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
 | ------- |
@@ -235,6 +236,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Linked List
 |  |
 | ------- |
@@ -291,6 +293,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -368,4 +371,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0856-score-of-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
