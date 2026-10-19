@@ -107,6 +107,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -257,6 +258,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Minimax
 |  |
 | ------- |
@@ -344,6 +346,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0875-koko-eating-bananas](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0875-koko-eating-bananas) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Tree
 |  |
 | ------- |
