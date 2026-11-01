@@ -108,6 +108,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Math
 |  |
 | ------- |
@@ -131,6 +132,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [0089-gray-code](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0089-gray-code) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Number Theory
 |  |
 | ------- |
