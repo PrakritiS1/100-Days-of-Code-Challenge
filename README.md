@@ -109,6 +109,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +134,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0089-gray-code](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0089-gray-code) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -262,6 +264,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Minimax
 |  |
 | ------- |
