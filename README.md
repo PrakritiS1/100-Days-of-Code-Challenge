@@ -110,6 +110,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +136,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Number Theory
 |  |
 | ------- |
