@@ -174,6 +174,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1021-remove-outermost-parentheses](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Stack
 |  |
 | ------- |
