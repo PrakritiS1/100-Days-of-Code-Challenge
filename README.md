@@ -111,6 +111,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Math
 |  |
 | ------- |
@@ -137,10 +138,12 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -219,6 +222,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1925-count-square-sum-triples](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1925-count-square-sum-triples) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Game Theory
 |  |
 | ------- |
@@ -300,6 +304,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Segment Tree
 |  |
 | ------- |
