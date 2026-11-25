@@ -255,6 +255,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | ------- |
 | [0146-lru-cache](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0146-lru-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [0148-sort-list](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0148-sort-list) |
 ## Design
 |  |
 | ------- |
@@ -272,6 +273,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0148-sort-list](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0148-sort-list) |
 ## Minimax
 |  |
 | ------- |
@@ -325,6 +327,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [0148-sort-list](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0148-sort-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -392,4 +395,12 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
