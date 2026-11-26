@@ -139,6 +139,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3360-stone-removal-game](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -321,6 +322,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Your sup
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3360-stone-removal-game](https://github.com/PrakritiS1/100-Days-of-Code-Challenge/tree/master/3360-stone-removal-game) |
 ## Two Pointers
 |  |
 | ------- |
